@@ -1,0 +1,11 @@
+/auto-save-list
+.depend
+*.elc
+*.cask
+*~
+*.log
+*.~undo-tree
+.bookmarks.el
+
+
+
